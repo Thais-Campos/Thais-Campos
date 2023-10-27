@@ -1,12 +1,10 @@
 ### Hi there 👋
 <br>
 <br>
- ✨ This is my professional profile  ✨
+ ✨ This is my professional profile  ✨ <a href="www.linkedin.com/in/thaís-campos-tecnologia-front-end"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 <br>
-<a href="www.linkedin.com/in/thaís-campos-tecnologia-front-end"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br>
-<br>
+
 I'm a junior Developer Software Frontend, currently work with technologies:
 <br>
 <br>
