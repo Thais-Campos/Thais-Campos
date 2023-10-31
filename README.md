@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 <br>
- ✨ This is my professional profile  ✨ <a href="www.linkedin.com/in/thaís-campos-tecnologia-front-end"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ ✨ This is my professional profile  ✨ <br><br><a href="www.linkedin.com/in/thaís-campos-tecnologia-front-end"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 <br>
 
