@@ -5,7 +5,7 @@
 <br>
 <br>
 
-I'm a junior Developer Software Frontend, currently work with technologies:
+I'm a junior Frontend Software Developer, currently work with technologies:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
