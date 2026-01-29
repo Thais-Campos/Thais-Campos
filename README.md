@@ -3,17 +3,24 @@
 💻 Desenvolvedora de Software com foco em Front-End e em evolução para Full Stack.  
 🎓 Formada em Análise e Desenvolvimento de Sistemas.  
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://thais-campos.github.io/portifolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-campos-fullstack/)
 
 
----
+<a href="https://www.linkedin.com/in/thais-campos-fullstack/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br>
+<a href="https://thais-campos.github.io/portifolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+
 
 ### 🧠 Sobre mim
-- Experiência com React e consumo de APIs REST
-- Conhecimentos em Node.js e NestJS
-- Interesse em boas práticas, organização e código limpo
-- Vivência com projetos em equipe
+
+Desenvolvedora Front-End formada em **Análise e Desenvolvimento de Sistemas**, com experiência profissional no desenvolvimento de aplicações web utilizando **HTML, CSS e JavaScript**, além de **integração com APIs REST**.
+
+Atualmente, estou aprofundando meus estudos em **Desenvolvimento Full Stack JavaScript**, com foco em **TypeScript, React, Node.js, NestJS e SQL**.
+
 
 ---
 
